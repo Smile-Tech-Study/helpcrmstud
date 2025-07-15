@@ -3,7 +3,7 @@
 Сканирование документов – инструмент для формирования документооборота и электронного архива. Качественные сканы можно сделать на телефоне  iOS и Android.
 
 [tabs]
-{% tab title=" Notes для IOS" %}
+[tab: Notes для IOS" %}
 Если у вас iPhone:
 
 1\. Откройте стандартное приложение «Заметки», чтобы отсканировать документ на iPhone
@@ -23,7 +23,7 @@
 <figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title=""Adobe Scan" для Android" %}
+[tab:"Adobe Scan" для Android" %}
 Если у вас Android:
 
 1\. Откройте приложение "Adobe Scan" или скачайте его&#x20;
