@@ -40,7 +40,8 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
+:::tip
+
 Отметьте "Нет отчества", только если в документе, удостоверяющем личность отчество отсутствует.
 {% endhint %}
 
