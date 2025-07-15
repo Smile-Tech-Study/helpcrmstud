@@ -12,21 +12,21 @@ description: >-
 
 На шаге “Оплата за обучение” есть кнопка “Перейти к оплате”, которая переводит пользователя на страницу оплаты.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Кнопка “Перейти к оплате” не активна, пока пользователь не отметит чек-бокс. Стоимость обучения подтягивается из программы, на которую подана заявку.
 
 Если оплата прошла успешно, то пользователь попадает на страницу успеха, откуда можно перейти к следующему шагу.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Если оплата не прошла, то осуществляется переход на страницу ошибки, откуда можно перейти к следующему шагу или обратиться в поддержку. Ошибка подсвечивается в предупредительном уведомлении: “Попробуйте ещё раз или свяжитесь со службой поддержки”.&#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на ссылку «техническую поддержку» пользователю откроется форма с обращением в поддержку.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:По способу организации" %}
@@ -34,11 +34,11 @@ description: >-
 
 Для уточнения варианта оплаты можете сами обратиться в организацию по контактам, указанным в разделе "Моя программа".&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Или же можете ожидать, когда с вами свяжется менеджер и предоставит перечень вариантов оплаты.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
 

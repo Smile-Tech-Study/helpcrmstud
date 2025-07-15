@@ -20,7 +20,7 @@
 
 6\. Выберите документ и нажмите кнопку Скачать в правом верхнем углу.
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:"Adobe Scan" для Android" %}
@@ -32,7 +32,7 @@
 
 2\. В поисковой строке Play Market введите "Adobe Scan", выберете его и скачайте на смартфон.
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 3\. Войдите или зарегистрируйтесь в Adobe Scan.
 
@@ -40,7 +40,7 @@
 
 5\. Чтобы сканы были сохранены, нажмите кнопку "Начать".
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 6\. Предоставьте Adobe доступ к камере, нажав кнопку "Разрешить".
 
@@ -48,7 +48,7 @@
 
 8\. Направьте камеру на документ и нажмите "Продолжить".
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 9\. Чтобы переименовать документ, нажмите по названию, введите новое название и нажмите кнопку "Переименовать".
 
@@ -56,10 +56,10 @@
 
 11\. Таким же образом можно отсканировать документ через выбранное фото в галерее. Нажмите на кнопку галереи в правом нижнем углу и выполните аналогичные действия по инструкции.
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 12\. Поделитесь отсканированным документом: скопируйте ссылку, отправьте скан по электронной почте или поделитесь копией.
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
