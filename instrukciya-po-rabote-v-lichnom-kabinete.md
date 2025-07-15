@@ -30,7 +30,7 @@ description: >-
     Уведомления - гарантия того, что вы вовремя получите информации о необходимых действиях для начала обучения и документах, после его завершения.\
     "**Включите уведомления**"
 
-![](<.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (10).png>)
 
 * ### Тип обучения
 
@@ -42,7 +42,7 @@ description: >-
 
 :::
 
-![](<.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (18).png>)
 
 :::tip
 
@@ -67,7 +67,7 @@ description: >-
 
     Образовательная организация может представить на выбор 1 или несколько периодов для обучения. Выберите подходящий.
 
-![](<.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (19).png>)
 
 *   ### Уточнение персональных данных
 
@@ -76,7 +76,7 @@ description: >-
 
 
 
-    ![](<.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    ![](<.gitbook/assets/image (20).png>)
 
 
 
@@ -84,13 +84,13 @@ description: >-
 
 В этом пункте нет галочки, потому что данный шаг будет актуален не для всех программ, если он отображается у вас, то заполните данные документа о текущем образовании и загрузите его скан.
 
-![](<.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (21).png>)
 
 * ### Оформление документов на зачисление
 
 На этом этапе необходимо будет скачать все бланки документов, сгенерированных для вас, подписать и загрузить каждый в своё окошечко. Затем сохранить шаг=отправить на проверку.
 
-![](<.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (16).png>)
 
 
 

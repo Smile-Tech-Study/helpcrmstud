@@ -8,4 +8,4 @@ Cсылка действует сутки с момента получения
 2. найдите письмо. Оно поступит с адреса info@flow-crm.study
 3. откройте письмо и перейдите по ссылке в нём.
 
-![](<.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (15).png>)
