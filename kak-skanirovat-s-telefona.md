@@ -21,7 +21,7 @@
 6\. Выберите документ и нажмите кнопку Скачать в правом верхнем углу.
 
 <figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:"Adobe Scan" для Android" %}
 Если у вас Android:
@@ -61,5 +61,5 @@
 12\. Поделитесь отсканированным документом: скопируйте ссылку, отправьте скан по электронной почте или поделитесь копией.
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
