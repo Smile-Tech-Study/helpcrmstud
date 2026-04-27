@@ -5,7 +5,7 @@ order: 0.3
 
 [html]
 
-<p><style>
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500;600&display=swap');
 
 .sp-wrap {
@@ -263,7 +263,7 @@ order: 0.3
   <div class="sp-hero">
     <h1>Добро пожаловать в справочный центр</h1>
     <p>Здесь вы найдёте ответы на вопросы о работе в личном кабинете: от входа и заполнения данных до получения документа об обучении.</p>
-    <a href="https://www.flow-crm.study/helpcrmstud/instrukciya-po-rabote-v-lichnom-kabinete" class="sp-hero-btn">
+    <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/instrukciya-po-rabote-v-lichnom-kabinete" class="sp-hero-btn">
       📋 Инструкция по работе в ЛК →
     </a>
   </div>
@@ -271,7 +271,7 @@ order: 0.3
   <p class="sp-section-title">Основные разделы</p>
   <div class="sp-cards">
 
-    <a href="https://www.flow-crm.study/helpcrmstud/instrukciya-po-rabote-v-lichnom-kabinete" class="sp-card">
+    <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/instrukciya-po-rabote-v-lichnom-kabinete" class="sp-card">
       <span class="sp-card-icon">🗺️</span>
       <div class="sp-card-title">Путь слушателя в ЛК</div>
       <p class="sp-card-desc">Интерактивная схема всех этапов — от знакомства до завершения обучения</p>
@@ -281,7 +281,7 @@ order: 0.3
       </div>
     </a>
 
-    <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-card">
+    <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-card">
       <span class="sp-card-icon">💬</span>
       <div class="sp-card-title">Частые вопросы</div>
       <p class="sp-card-desc">Ответы на самые популярные вопросы: вход, документы, оплата, сроки</p>
@@ -291,7 +291,7 @@ order: 0.3
       </div>
     </a>
 
-    <a href="https://www.flow-crm.study/helpcrmstud/README" class="sp-card">
+    <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/README" class="sp-card">
       <span class="sp-card-icon">🌊</span>
       <div class="sp-card-title">Flow — что это?</div>
       <p class="sp-card-desc">Коротко о системе: зачем нужен личный кабинет и как он устроен</p>
@@ -306,28 +306,28 @@ order: 0.3
   <p class="sp-section-title">Быстрые ответы</p>
   <div class="sp-faq-section">
     <div class="sp-faq-grid">
-      <a href="https://www.flow-crm.study/helpcrmstud/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto" class="sp-faq-item">
         <span class="sp-faq-icon">🔒</span> Почему вход по ссылке? Это безопасно?
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">⏰</span> Ссылка для входа не работает
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">📱</span> Как сканировать документы с телефона?
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">💳</span> Как оплатить обучение?
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">🧾</span> Где найти чек об оплате?
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">🏅</span> Где мой документ об окончании?
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">📭</span> Письма приходят на старую почту
       </a>
-      <a href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
+      <a target="_blank" href="https://www.flow-crm.study/helpcrmstud/chasto-zadavaemye-voprosy" class="sp-faq-item">
         <span class="sp-faq-icon">🕐</span> Как долго проверяются документы?
       </a>
     </div>
@@ -341,6 +341,6 @@ order: 0.3
     </div>
   </div>
 
-</div></p>
+</div>
 
 [/html]
